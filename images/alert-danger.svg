@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-169.984,-2322.82)">
+        <g id="Ellipse-2-copy-4" serif:id="Ellipse 2 copy 4" transform="matrix(1,0,0,1,-2.01577,0.824633)">
+            <circle cx="186" cy="2336" r="13" style="fill:rgb(250,110,108);"/>
+        </g>
+        <g id="Forma-1" serif:id="Forma 1" transform="matrix(1,0,0,1,-2.50327,1.33963)">
+            <path d="M187.798,2335.49L191.73,2331.55C192.092,2331.19 192.092,2330.61 191.73,2330.24C191.368,2329.88 190.781,2329.88 190.419,2330.24L186.487,2334.18L182.555,2330.24C182.193,2329.88 181.607,2329.88 181.245,2330.24C180.883,2330.61 180.883,2331.19 181.245,2331.55L185.177,2335.49L181.245,2339.42C180.883,2339.78 180.883,2340.37 181.245,2340.73C181.607,2341.09 182.193,2341.09 182.555,2340.73L186.487,2336.8L190.419,2340.73C190.781,2341.09 191.368,2341.09 191.73,2340.73C192.092,2340.37 192.092,2339.78 191.73,2339.42L187.798,2335.49Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-173.726,-2251.36)">
+        <g id="Ellipse-2-copy-3" serif:id="Ellipse 2 copy 3" transform="matrix(1,0,0,1,1.72638,-0.63801)">
+            <circle cx="186" cy="2266" r="13" style="fill:rgb(232,172,69);"/>
+        </g>
+        <g id="_Image2_" serif:id="_Image2" transform="matrix(1,0,0,1,185.766,2258.39)">
+            <clipPath id="_clip1">
+                <rect x="0.92" y="0.953" width="2.08" height="12.047"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <clipPath id="_clip2">
+                    <rect x="0.92" y="0.953" width="2.08" height="12.047"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g transform="matrix(1,-0,-0,1,-12.0402,-7.02538)">
+                        <use xlink:href="#_Image3" x="18.696" y="8.61" width="2.08px" height="12.047px" transform="matrix(0.693215,0,0,0.926675,0,0)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image3" width="3px" height="13px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAANCAYAAABsItTPAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAQElEQVQImaXMqxGAMAAFwR0mho+g/2boABlLB6j4F0NmQHNuzUlSk7QkrWDGCpNXv1FwYxk4sA+c2ECSK0+fQQfqvBpdRF2gXgAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>
